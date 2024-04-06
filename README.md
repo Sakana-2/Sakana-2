@@ -1,6 +1,5 @@
-### Hi there 👋
-# できること
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,python)](https://skillicons.dev)
+# What I can
+[![My Skills](https://skillicons.dev/icons?i=react,cpp,python)](https://skillicons.dev)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakana-2&theme=dracula)
 
